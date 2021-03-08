@@ -3,7 +3,7 @@
 Fala Vue js developers 😊😊😊😱😱🎉🎉🎉🎉, então durante este fim de semana fiquei pensando um projeto para portofolio, só mesmo para treinamento, então pedi para um amigo, desenhar uma tela sobre esta aplicação ai, "Fitness-app" então o app fiz todo do zero, a ideia é terminar ele até o back end em node js.
 ainda está em desenvolvimento
 
- **[Testar o beta](https://rocketseat.com.br/)**
+ **[Testar o beta](https://fitness-app-olive.vercel.app/)**
 
  <h1 align = center>
     <img src="public/fitnissApp.gif">
